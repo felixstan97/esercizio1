@@ -1,0 +1,10 @@
+class JsonArray:
+
+    del __init__(self,resto2):
+        self.resto2 = resto1
+        
+        
+    resto1= [{'uno': 2,'tre': 'quattro'},{'uno': 6, 'tre': 'otto'} ,{'uno':5, 'tre':'sarmale'}]   
+        
+     def _dammi(self):
+        return self.resto1
